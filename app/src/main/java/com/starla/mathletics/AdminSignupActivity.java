@@ -13,7 +13,7 @@ import com.starla.mathletics.models.User;
 public class AdminSignupActivity extends AppCompatActivity {
 
     private DatabaseHelper db;
-    //test lagi dan lagi
+    //sedapnya
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
