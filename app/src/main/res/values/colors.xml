@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="notebook_cream">#FFF8E7</color>
+    <color name="notebook_grid">#E8DFD0</color>
+    <color name="pencil_black">#2D2D2D</color>
+    <color name="sketch_blue">#4A90D9</color>
+    <color name="sketch_orange">#FF8C42</color>
+    <color name="sketch_green">#5CB85C</color>
+    <color name="sketch_red">#E74C3C</color>
+    <color name="sketch_yellow">#F4D03F</color>
+    <color name="sketch_purple">#9B59B6</color>
+    <color name="card_white">#FFFFFE</color>
+    <color name="locked_gray">#B0B0B0</color>
+    <color name="progress_bg">#D5D5D5</color>
+    <color name="primary">#4A90D9</color>
+    <color name="primary_dark">#2E6BB0</color>
+    <color name="accent">#FF8C42</color>
+</resources>

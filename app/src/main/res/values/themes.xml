@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MathLetics" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@drawable/bg_notebook</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="SketchButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="backgroundTint">@color/sketch_orange</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="elevation">4dp</item>
+    </style>
+
+    <style name="SketchTitle">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/pencil_black</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+
+    <style name="SketchSubtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/sketch_blue</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+
+    <style name="SketchCardTitle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/pencil_black</item>
+    </style>
+</resources>
