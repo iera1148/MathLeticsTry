@@ -85,6 +85,7 @@ public class CreateQuizActivity extends AppCompatActivity {
             return;
         }
 
+
         if (questionViews.isEmpty()) {
             Toast.makeText(this, "Add at least one question", Toast.LENGTH_SHORT).show();
             return;
