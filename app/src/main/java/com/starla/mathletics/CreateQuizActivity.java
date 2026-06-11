@@ -79,6 +79,7 @@ public class CreateQuizActivity extends AppCompatActivity {
         String tier = spTier.getSelectedItem().toString();
         int gradeLevel = spGrade.getSelectedItemPosition() + 1;
 
+
         if (title.isEmpty() || topic.isEmpty()) {
             Toast.makeText(this, "Enter quiz title and topic", Toast.LENGTH_SHORT).show();
             return;
