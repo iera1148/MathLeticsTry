@@ -23,6 +23,8 @@ public class AdminDashboardActivity extends AppCompatActivity {
 
         SessionManager session = new SessionManager(this);
         DatabaseHelper db = DatabaseHelper.getInstance(this);
+        //miza
+
 
         List<QuizResult> results = db.getResultsByAdmin(session.getUserId());
         ListView lv = findViewById(R.id.lvDashboard);
